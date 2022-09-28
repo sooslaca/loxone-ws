@@ -15,8 +15,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/XciD/loxone-ws/crypto"
-	"github.com/XciD/loxone-ws/events"
+	"github.com/sooslaca/loxone-ws/crypto"
+	"github.com/sooslaca/loxone-ws/events"
 
 	"github.com/gorilla/websocket"
 	"github.com/hashicorp/go-version"
