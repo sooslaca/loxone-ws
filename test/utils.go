@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/XciD/loxone-ws"
-	"github.com/XciD/loxone-ws/events"
+	"github.com/sooslaca/loxone-ws"
+	"github.com/sooslaca/loxone-ws/events"
 )
 
 type FakeWebsocket struct {
